@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>김도균 | QA Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main class="container">
+
+    <h1>
+      반갑습니다,<br />
+      QA 엔지니어<br />
+      김도균입니다<span class="blue">.</span>
+    </h1>
+
+    <p class="intro">
+      웹 기반 서비스의 기능, 성능, 보안 테스트를 수행하며
+      데이터 정합성과 시스템 안정성 검증 경험을 쌓고 있습니다.
+      단순한 기능 확인을 넘어 사용자 흐름과 데이터 기반으로 문제를 분석하고
+      서비스 품질 향상에 기여하는 QA 엔지니어를 지향합니다.
+    </p>
+
+    <h2>Work Experience<span class="blue">.</span></h2>
+
+    <section class="experience">
+
+      <div class="company">
+        <h3>한국정보통신기술협회<span class="blue">.</span></h3>
+        <p>QA Engineer</p>
+        <p>2025.03 - 현재</p>
+      </div>
+
+      <div class="details">
+
+        <article class="project">
+          <h3>소프트웨어 품질 검증<span class="blue">.</span></h3>
+          <p class="date">2025.03 - 현재</p>
+
+          <h4>Description</h4>
+          <p>
+            웹 기반 시스템의 기능, 성능, 보안 테스트 수행 및
+            API 데이터 흐름 기반 품질 검증 수행
+          </p>
+
+          <h4>What did I do</h4>
+          <ul>
+            <li>사용자 시나리오 기반 테스트 케이스 설계</li>
+            <li>API 요청/응답 데이터 정합성 검증</li>
+            <li>상태값 변화 기반 오류 케이스 식별</li>
+            <li>JMeter 기반 성능 테스트 및 병목 분석</li>
+            <li>보안 취약점 점검 및 입력값 검증</li>
+            <li>결함 리포트 작성 및 협업</li>
+          </ul>
+
+          <h4>Impact</h4>
+          <ul>
+            <li>데이터 불일치 오류 사전 식별</li>
+            <li>성능 병목 구간 분석 및 개선 방향 도출</li>
+            <li>사용자 흐름 기반 오류 검출</li>
+          </ul>
+
+          <h4>Tech Stack</h4>
+          <p class="tech">Postman, JMeter</p>
+        </article>
+
+        <article class="project">
+          <h3>AI 화재 감지 모델 검증<span class="blue">.</span></h3>
+          <p class="date">University Project</p>
+
+          <h4>Description</h4>
+          <p>
+            AI 모델의 예측 정확도 검증 및 오탐/미탐 분석 수행
+          </p>
+
+          <h4>What did I do</h4>
+          <ul>
+            <li>모델 결과 정확도 검증</li>
+            <li>오탐 / 미탐 데이터 분석</li>
+            <li>데이터 기반 성능 검증</li>
+          </ul>
+
+          <h4>Impact</h4>
+          <ul>
+            <li>정확도 기준 검증 체계 수립</li>
+            <li>모델 개선 방향 도출</li>
+          </ul>
+
+          <h4>Tech Stack</h4>
+          <p class="tech">Python, YOLOv8</p>
+        </article>
+
+      </div>
+    </section>
+
+    <section class="skills">
+      <h2>Skills<span class="blue">.</span></h2>
+      <ul>
+        <li>API 테스트 (Postman)</li>
+        <li>성능 테스트 (JMeter)</li>
+        <li>테스트 케이스 설계</li>
+        <li>결함 분석 및 리포트</li>
+      </ul>
+    </section>
+
+  </main>
+</body>
+</html>
