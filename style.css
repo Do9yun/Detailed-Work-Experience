@@ -36,8 +36,9 @@ h2 {
 
 .experience {
   display: grid;
-  grid-template-columns: 200px 1fr;
-  gap: 40px;
+  grid-template-columns: 280px 1fr;
+  gap: 56px;
+  align-items: start;
 }
 
 .company h3 {
