@@ -42,9 +42,9 @@ h2 {
 }
 
 .company h3 {
-  font-size: 22px;
+  font-size: 20px;
   margin: 0 0 10px;
-  white-space: nowrap;
+  line-height: 1.35;
 }
 
 .company p {
@@ -59,7 +59,8 @@ h2 {
 
 .project h3 {
   font-size: 24px;
-  margin-bottom: 8px;
+  margin: 0 0 8px;
+  line-height: 1.35;
 }
 
 .date {
